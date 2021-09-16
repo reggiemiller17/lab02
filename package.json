@@ -1,0 +1,19 @@
+{
+  "name": "lab02",
+  "version": "1.0.0",
+  "description": "nodejs application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reggiemiller17/lab02.git"
+  },
+  "author": "Reggie Brice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reggiemiller17/lab02/issues"
+  },
+  "homepage": "https://github.com/reggiemiller17/lab02#readme"
+}
